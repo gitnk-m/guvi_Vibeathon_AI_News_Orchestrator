@@ -1,0 +1,22 @@
+# Byte-compiled / cache
+__pycache__/
+
+# Virtual environment
+env/
+.venv/
+ENV/
+.ENV/
+
+# Logs and temporary
+*.log
+*.tmp
+
+# Environment variables
+*.env
+
+# System
+.DS_Store
+Thumbs.db
+
+#csv for ref to ignore
+*.csv
