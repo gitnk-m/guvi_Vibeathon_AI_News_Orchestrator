@@ -6,6 +6,7 @@ env/
 .venv/
 ENV/
 .ENV/
+new_env/
 
 # Logs and temporary
 *.log
@@ -18,5 +19,5 @@ ENV/
 .DS_Store
 Thumbs.db
 
-#csv for ref to ignore
-*.csv
+#Video
+.mp4
